@@ -1,4 +1,4 @@
-#🚀 Network Traffic Anomaly Detection
+🚀 Network Traffic Anomaly Detection
 🔍 Project Overview
 In today's digitally connected world, network traffic plays a critical role in maintaining the security and integrity of systems. With an ever-growing number of connected devices, safeguarding network security has become more crucial than ever.
 
